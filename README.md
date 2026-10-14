@@ -368,6 +368,8 @@ Ai__OpenAi__Model=gpt-4.1-mini
 
 ## Como rodar os testes
 
+O [experimento de prompts para testes de integração](docs/16-integration-test-prompt-experiment.md) registra dois tipos de prompt, suas revisões, quatro casos implementados e os limites da validação.
+
 Backend:
 
 ```bash
